@@ -7,24 +7,21 @@
     <dd> Treeview (Um visualizador em lista)</dd>
     <dd> Botões editar e excluir</dd>
     <dd> Campo para pesquisa</dd>
-  <dt> Tela de edição</dt>
+  <dt> - Tela de edição</dt>
     <dd> Abre uma tela com o item selecionado na lista pronto para editar</dd>
 </dl>
 
-Construído com python e tkinter
-
 <div style="display: inline;">
-  <h3>Tela principal com uma treeview (list view), com
+  <h3>* Tela principal com uma treeview (list view), com<br>
   botões de editar e excluir e campo para pesquisa.</h3>
   <img src="images/tela-principal.png" alt="tela principal">
 
-
+<h3>* Abre uma tela com o item selecionado na lista pronto para editar</h3>
   <img src="images/tela-editar.png" alt="tela de edição">
-  <h3>Abre uma tela com o item selecionado na lista pronto para editar</h3>
 
-  <img src="images/tela-confimacao-edicao.png" alt="tela principal">
-  <h3>confirma a edição</h3>
+  <h3>* confirma a edição</h3>
+  <img src="images/confimacao-edicao.png" alt="tela confirmação da edição">
 
-  <img src="images/tela-excluir.png" alt="tela principal">
-  <h3>confirma a exclusão do item selecionado</h3>
+  <h3>* confirma a exclusão do item selecionado</h3>
+  <img src="images/tela-excluir.png" alt="tela exclusão">
 </div>
