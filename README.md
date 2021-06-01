@@ -1,4 +1,8 @@
 # Cadastro Produtos
+  O <b>cadastro Produtos</b> foi desenvolvido em python e tkinter e sqlite3;
+É um software simples, Construído apenas para fins didático e de aprendizagem.
+  O mesmo tem a capacidade de armazenar um produto e seu preço.
+  
 ### Segue abaixo suas funcionalidades:
 
 <dl>
@@ -20,7 +24,7 @@
   <img src="images/tela-editar.png" alt="tela de edição">
 
   <h3>* confirma a edição</h3>
-  <img src="images/confimacao-edicao.png" alt="tela confirmação da edição">
+  <img src="images/confirmacao-edicao.png" alt="tela confirmação da edição">
 
   <h3>* confirma a exclusão do item selecionado</h3>
   <img src="images/tela-excluir.png" alt="tela exclusão">
